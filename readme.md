@@ -4,7 +4,7 @@
 
 ![npm](https://img.shields.io/npm/v/@its2easy/animate-images)
 
-Demo - [codepen](https://codepen.io/its2easy/pen/powQJmd)
+Demo - [codepen](https://codepen.io/bibinrebo/pen/QWXVvoE)
 
 **AnimateImages** is a lightweight library (17kb) that animates a sequence of images 
 to use in animations or pseudo 3d product view. It works WITHOUT BUILT-IN UI and mainly 
