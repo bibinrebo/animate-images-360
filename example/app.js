@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let element = document.getElementById('canvas1');
     let imagesArray = Array.from(new Array(90), (v, k) => {
         let number = String(k).padStart(4, "0");
-        return `https://distracted-villani-e19534.netlify.app/train/rotation${number}.jpg`;
+        return `https://production.buildtrack.in/projects/buildtrack-360/img/building-02/opt/opt/Building${number}.webp`;
     });
     let loadingBlock = document.querySelector('.loading1');
 
